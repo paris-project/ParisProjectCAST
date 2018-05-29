@@ -1827,7 +1827,7 @@ body {
 }
 .cid-qTsqOf8FLi {
   padding-top: 135px;
-  padding-bottom: 135px;
+  padding-bottom: 90px;
   background-color: #1a0208;
 }
 .cid-qTsqOf8FLi .mbr-slider .carousel-control {
@@ -2059,26 +2059,26 @@ body {
 .cid-qTsqV4l47H .mbr-section-btn {
   text-align: left;
 }
-.cid-qTsSBWMuDw {
+.cid-qTtaTfs6tf {
   padding-top: 135px;
-  padding-bottom: 135px;
+  padding-bottom: 30px;
   background-color: #1a0208;
 }
-.cid-qTsSBWMuDw .mbr-slider .carousel-control {
+.cid-qTtaTfs6tf .mbr-slider .carousel-control {
   background: #1b1b1b;
 }
-.cid-qTsSBWMuDw .mbr-slider .carousel-control-prev {
+.cid-qTtaTfs6tf .mbr-slider .carousel-control-prev {
   left: 0;
   margin-left: 2.5rem;
 }
-.cid-qTsSBWMuDw .mbr-slider .carousel-control-next {
+.cid-qTtaTfs6tf .mbr-slider .carousel-control-next {
   right: 0;
   margin-right: 2.5rem;
 }
-.cid-qTsSBWMuDw .mbr-slider .modal-body .close {
+.cid-qTtaTfs6tf .mbr-slider .modal-body .close {
   background: #1b1b1b;
 }
-.cid-qTsSBWMuDw .mbr-gallery-item > div::before {
+.cid-qTtaTfs6tf .mbr-gallery-item > div::before {
   content: '';
   position: absolute;
   left: 0;
@@ -2091,13 +2091,13 @@ body {
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
 }
-.cid-qTsSBWMuDw .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+.cid-qTtaTfs6tf .mbr-gallery-item > div:hover .mbr-gallery-title::before {
   background: transparent !important;
 }
-.cid-qTsSBWMuDw .mbr-gallery-item > div:hover:before {
+.cid-qTtaTfs6tf .mbr-gallery-item > div:hover:before {
   opacity: 0.7 !important;
 }
-.cid-qTsSBWMuDw .mbr-gallery-title {
+.cid-qTtaTfs6tf .mbr-gallery-title {
   font-size: .9em;
   position: absolute;
   display: block;
@@ -2107,7 +2107,7 @@ body {
   color: #fff;
   z-index: 2;
 }
-.cid-qTsSBWMuDw .mbr-gallery-title:before {
+.cid-qTtaTfs6tf .mbr-gallery-title:before {
   content: " ";
   width: 100%;
   height: 100%;
@@ -2122,7 +2122,7 @@ body {
   transition: 0.2s background ease-in-out;
 }
 .cid-qTsSFw6mFT {
-  padding-top: 120px;
+  padding-top: 45px;
   padding-bottom: 120px;
   background-color: #1a0208;
 }
