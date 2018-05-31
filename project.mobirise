@@ -2937,6 +2937,9 @@
             },
             "LABEL": {
               "color": "#ffffff"
+            },
+            "H2": {
+              "color": "#000000"
             }
           },
           "_name": "form1",
