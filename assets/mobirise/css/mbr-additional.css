@@ -1755,10 +1755,14 @@ body {
   color: #ffffff !important;
 }
 .cid-qTsjde2qA6 {
-  background-image: url("../../../assets/images/uluru-dessert-australia-rock-night-sky-starry-sky-landscape-ayers-rock-3840x2160-2000x1125.jpg");
+  background-image: url("../../../assets/images/landscape-2645003-1920-1920x1920.jpg");
 }
 .cid-qTsjde2qA6 H1 {
   color: #c9a93d;
+}
+.cid-qTsjde2qA6 .mbr-text,
+.cid-qTsjde2qA6 .mbr-section-btn {
+  text-align: center;
 }
 .cid-qTsut58D7a {
   padding-top: 0px;
@@ -2051,7 +2055,7 @@ body {
   transition: 0.2s background ease-in-out;
 }
 .cid-qTsqV4l47H {
-  background-image: url("../../../assets/images/estudio-2-2000x1500.jpg");
+  background-image: url("../../../assets/images/mix-table-3388006-1922-1920x1280.jpg");
 }
 .cid-qTsqV4l47H .mbr-text,
 .cid-qTsqV4l47H .mbr-section-btn {
@@ -2567,10 +2571,6 @@ body {
 .cid-qSNXeFW9u1 .nav-link:hover,
 .cid-qSNXeFW9u1 .dropdown-item:hover {
   color: #ffffff !important;
-}
-.cid-qSRZRvYmf5 {
-  background-color: #f1d57a;
-  background: linear-gradient(45deg, #f1d57a, #1a0208);
 }
 @media (min-width: 992px) {
   .cid-qSRZRvYmf5 .mbr-figure {
