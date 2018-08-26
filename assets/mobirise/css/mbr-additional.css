@@ -2572,6 +2572,10 @@ body {
 .cid-qSNXeFW9u1 .dropdown-item:hover {
   color: #ffffff !important;
 }
+.cid-qSRZRvYmf5 {
+  background-color: #f1d57a;
+  background: linear-gradient(45deg, #f1d57a, #1a0208);
+}
 @media (min-width: 992px) {
   .cid-qSRZRvYmf5 .mbr-figure {
     padding-right: 4rem;
@@ -2992,7 +2996,7 @@ body {
   color: #ffffff !important;
 }
 .cid-qSS1O7elAY {
-  background-image: url("../../../assets/images/estudio-2-2000x1500.jpg");
+  background-image: url("../../../assets/images/mix-table-3388006-1922-1920x1280.jpg");
 }
 .cid-qSS1O7elAY .mbr-text,
 .cid-qSS1O7elAY .mbr-section-btn {
@@ -4334,7 +4338,7 @@ body {
 }
 .cid-qSTadcdeQF {
   padding-top: 120px;
-  padding-bottom: 120px;
+  padding-bottom: 105px;
   background-color: #1a0208;
 }
 .cid-qSNXeFW9u1 .navbar {
