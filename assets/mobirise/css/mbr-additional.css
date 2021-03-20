@@ -1071,30 +1071,31 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
-.cid-rOrTPWCBy4 {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background-image: url("../../../assets/images/aurora-5510267.gif");
+.cid-ssdc0HBT7n {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/aurora-5510268.gif");
 }
-.cid-rOrTPWCBy4 .testimonial-text {
+.cid-ssdc0HBT7n .testimonial-text {
   font-style: italic;
   font-weight: 300;
+  text-align: center;
 }
-.cid-rOrTPWCBy4 .mbr-author-name {
+.cid-ssdc0HBT7n .mbr-author-name {
   font-weight: bold;
 }
-.cid-rOrTPWCBy4 .media-container-row {
+.cid-ssdc0HBT7n .media-container-row {
   word-wrap: break-word;
   word-break: break-word;
 }
 @media (max-width: 991px) {
-  .cid-rOrTPWCBy4 .mbr-figure,
-  .cid-rOrTPWCBy4 img {
+  .cid-ssdc0HBT7n .mbr-figure,
+  .cid-ssdc0HBT7n img {
     max-height: 300px;
     width: auto;
     margin: auto;
   }
-  .cid-rOrTPWCBy4 .media-content {
+  .cid-ssdc0HBT7n .media-content {
     padding-top: 1.5rem !important;
   }
 }
@@ -1270,6 +1271,21 @@ section.lazy-placeholder:after {
     padding: 15px;
   }
 }
+.cid-ssd7ndTypP {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #360814;
+}
+.cid-ssd7ndTypP .mbr-text,
+.cid-ssd7ndTypP blockquote {
+  color: #767676;
+}
+.cid-ssd7ndTypP .mbr-text B {
+  color: #ffffff;
+}
+.cid-ssd7ndTypP .mbr-text {
+  color: #ffffff;
+}
 .cid-qTsqV4l47H {
   background-image: url("../../../assets/images/mix-table-3388006-1922-1920x1280.jpg");
 }
@@ -1386,24 +1402,4 @@ section.lazy-placeholder:after {
 }
 .cid-qTsqWMemit H2 {
   color: #000000;
-}
-.cid-qTsqXk5QP5 {
-  padding-top: 45px;
-  padding-bottom: 60px;
-  background: linear-gradient(0deg, #000000, #000000);
-}
-.cid-qTsqXk5QP5 .mbr-iconfont-social {
-  font-size: 32px;
-  color: #ff3366;
-}
-.cid-qTsqXk5QP5 .social-list a:focus {
-  text-decoration: none;
-}
-.cid-qTsqXX3tth {
-  padding-top: 0px;
-  padding-bottom: 45px;
-  background-color: #000000;
-}
-.cid-qTsqXX3tth .media-container-row .mbr-text {
-  color: #585555;
 }
